@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678809773 source:c:\users\pc\onedrive\masaüstü\cprojects\if_else_example\odd and even number\oddandeven\main.c
+	<stdio.h>
+	<stdlib.h>
+
